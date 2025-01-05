@@ -38,4 +38,5 @@ A full list of all required libraries are:
 
 - **Progress Tracking**:
   - `tqdm`
-
+## Acknowledgements
+This project was done as an internship as part of the Master in Space Science and Technology at the Observatoire de Paris. The internship took place at LESIA, Observatoire de Paris-Meudon under the supervision of Dr. Pierre Kervella. This project has received funding from the European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation program (project UniverScale, grant agreement 951549).
